@@ -36,7 +36,7 @@ public class BrowserUtilone {
 	
 	public void launchUrl(String url) {
 		if(url==null) {
-			System.out.println("wrong url");
+			System.out.println("wrong uurl");
 		}
 		
 		if(url.indexOf("https")==0) {
