@@ -46,7 +46,7 @@ public class BrowserUtilone {
 		
 		public String getPageTitle() {
 			String title =driver.getTitle();
-			System.out.println("title is:" + title);
+			System.out.println("title name is:" + title);
 			return title;
 		}
 	
